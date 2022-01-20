@@ -1,1 +1,1 @@
-My first Oding Project!
+My first Odin Project!
